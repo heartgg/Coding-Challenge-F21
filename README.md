@@ -15,9 +15,15 @@ This score is close to my expectation. After reading it, I noticed that the firs
 
 ## Citations
 [NLTK](https://www.nltk.org/)
+
 [NLTK Tokenize](https://www.nltk.org/api/nltk.tokenize.html)
+
 [NLTK Sentiment](https://www.nltk.org/api/nltk.sentiment.html)
+
 [Text Analytics for Beginners using NLTK](https://www.datacamp.com/community/tutorials/text-analytics-beginners-nltk)
+
 [VADER](https://github.com/cjhutto/vaderSentiment)
+
 [Matplotlib](https://matplotlib.org/2.0.2/index.html)
+
 [Bar Plot in Matlib](https://www.geeksforgeeks.org/bar-plot-in-matplotlib/)
