@@ -11,7 +11,7 @@ The overall sentiment score for the provided text is 0.1712. This score was calc
 A compound score greater than 0 indicates positive sentiment. The maximum compound score is 1, meaning this text has an overall positive sentiment, but it is not overwhelmingly positive. A positive score mainly indicates a heavier use of words with a positive connotation (i.e. excellent, very good, happy).
 
 ## Expectation
-This score is close to my expectation. After reading it, I noticed that the first paragraph has more negative sentiment than the second. While the first paragraph has mixed sentiment (as illustrated in Figure 1), the second one is overwhelmingly positive. Averaging them together and getting that score seems accurate.
+This score is close to my expectation. After reading the input file, I noticed that the first paragraph has more negative sentiment than the second. While the first paragraph has mixed sentiment (as illustrated in Figure 1), the second one is overwhelmingly positive. Averaging them together and getting that score seems accurate.
 
 ## Citations
 [NLTK](https://www.nltk.org/)
