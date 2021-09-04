@@ -1,4 +1,4 @@
-# Sentiment Analyzer
+## Sentiment Analyzer
 The sentiment analyzer used for this task was the Valence Aware Dictionary and sEntiment Reasoner or VADER. VADER is part of the Natural Language Toolkit which has also been used for sentence tokenization. VADER provides multiple metrics to analyze text however the compound score was the one used to calculate the final score. Through research and experimentation, I found that VADER considers negation (not, no, etc.), punctuation (exclemation marks), and even adverbs (good vs very good) to calculate the compound score. The compound score is bound from -1 to 1.
 
 ## Individual Sentence Score
